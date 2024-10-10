@@ -2,11 +2,11 @@
 
 # هذه الورقة تحتوي على ملخص شامل (Notes / Cheatsheet) لشهادة CompTIA Security+ SY0-701.
 
-![CompTIA-Security-Plus-SY0-701](CompTIA-Security-Plus-SY0-701.png)
+![CompTIA-Security-Plus-SY0-701](images/CompTIA-Security-Plus-SY0-701.png)
 
 **أهداف امتحان شهادة CompTIA Security+ رقم الامتحان: SY0-701.**
 
-![all_parts](all_parts.png)
+![all_parts](images/all_parts.png)
 
 ---
 **معلومات حول الامتحان**
@@ -55,7 +55,7 @@
 ---
 ## 1.0 مفاهيم الأمن العامة (General Security Concepts)
 
-![part1](part1.png)
+![part1](images/part1.png)
 
 ### 1.1 قارن ووازن بين الأنواع المختلفة من ضوابط الأمن.
 
