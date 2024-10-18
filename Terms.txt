@@ -1,4 +1,3 @@
-Acronym Spelled Out
 AAA Authentication, Authorization, and Accounting
 ACL Access Control List
 AES Advanced Encryption Standard
@@ -33,7 +32,6 @@ CCMP Counter Mode/CBC-MAC Protocol
 CCTV Closed-circuit Television
 CERT Computer Emergency Response Team
 CFB Cipher Feedback
-Acronym Spelled Out
 CHAP Challenge Handshake Authentication Protocol
 CIA Confidentiality, Integrity, Availability
 CIO Chief Information Officer
@@ -69,7 +67,6 @@ DNAT Destination Network Address Translation
 DNS Domain Name System
 DoS Denial of Service
 DPO Data Privacy Officer
-Acronym Spelled Out
 DRP Disaster Recovery Plan
 DSA Digital Signature Algorithm
 DSL Digital Subscriber Line
@@ -117,7 +114,6 @@ IDEA International Data Encryption Algorithm
 IDF Intermediate Distribution Frame
 IdP Identity Provider
 IDS Intrusion Detection System
-Acronym Spelled Out
 IEEE Institute of Electrical and Electronics Engineers
 IKE Internet Key Exchange
 IM Instant Messaging
@@ -163,7 +159,6 @@ MSP Managed Service Provider
 MSSP Managed Security Service Provider
 MTBF Mean Time Between Failures
 MTTF Mean Time to Failure
-Acronym Spelled Out
 MTTR Mean Time to Recover
 MTU Maximum Transmission Unit
 NAC Network Access Control
@@ -208,7 +203,6 @@ PHI Personal Health Information
 PII Personally Identifiable Information
 PIV Personal Identity Verification
 PKCS Public Key Cryptography Standards
-Acronym Spelled Out
 PKI Public Key Infrastructure
 POP Post Office Protocol
 POTS Plain Old Telephone Service
@@ -252,7 +246,6 @@ SD-WAN Software-defined Wide Area Network
 SDK Software Development Kit
 SDLC Software Development Lifecycle
 SDLM Software Development Lifecycle Methodology
-Acronym Spelled Out
 SDN Software-defined Networking
 SE Linux Security-enhanced Linux
 SED Self-encrypting Drives
@@ -291,7 +284,6 @@ TGT Ticket Granting Ticket
 TKIP Temporal Key Integrity Protocol
 TLS Transport Layer Security
 TOC Time-of-check
-Acronym Spelled Out
 TOTP Time-based One-time Password
 TOU Time-of-use
 TPM Trusted Platform Module
